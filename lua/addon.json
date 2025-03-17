@@ -1,0 +1,16 @@
+{
+    "title": "Starfall Manager",
+    "description": "An admin tool for managing Starfall scripts",
+    "type": "servercontent",
+    "tags": [
+        "admin",
+        "tool",
+        "management",
+        "starfall"
+    ],
+    "ignore": [
+        ".git/*",
+        "README.md",
+        ".vscode/*"
+    ]
+}
